@@ -8,7 +8,10 @@ Vue + VueX + Vue-Router + Element-Ui + Axios + Webpack + ES6/7 + Flex + Vue-Amap
 运行改项目需提前安装 Node、npm   
 
 `git clone https://github.com/1007821840/cbux.git  
-cd vue2-elm cd到当前目录    
+
+cd vue2-elm cd到当前目录   
+
 npm install 安装依赖   
+
 npm run serve`
  
