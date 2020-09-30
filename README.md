@@ -71,10 +71,10 @@ module.exports = {
 
 # 项目框架布局
 
-.
+.  
 ├── src  
 │   ├── assets                                 //字体图标文件夹 和公共的css样式 和svg图片  
-|   |  
+|    |  
 │   ├── components                             // 组件  
 │   │   ├── common                             // 公共组件  
 │   │   │   ├── navbar                         // 顶部的插槽   
@@ -83,16 +83,16 @@ module.exports = {
 │   │   │   └── tabbar                         // 底部的插槽  
 │   │   ├── content                            // 当前项目某些组件  
 │   │   │   ├── sroll-PageSlide.vue  
-|   |   |   └── mainTabbar-MainTabBar.vue                
+|    |    |   └── mainTabbar-MainTabBar.vue                
 │   ├── network                                // aixos获取数据  
 │   │   ├── request.js                         // 创建axios的实例 axios的拦截器  
 │   │   └── home.js                            // 请求本地json数据  
 │   ├── router ── index.js                     // vue-router 路由配置  
 │   ├── utils                                  //封装js  
-|   |     ├──jlfd.js                           //节流 防抖的封装  
-|   |     └──checkTools.js                     //正则判断的封装  
+|    |     ├──jlfd.js                           //节流 防抖的封装  
+|    |     └──checkTools.js                     //正则判断的封装  
 │   ├── static                                 //存放项目images等  
-|   |  
+|    |  
 │   ├── views                                    
 │   │   ├── home                               //首页文件夹  
 │   │   │                       
