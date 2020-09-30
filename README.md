@@ -73,45 +73,43 @@ module.exports = {
 
 .
 ├── src  
-│   ├── assets                                 //字体图标文件夹 和公共的css样式 和svg图片
-|   |
-│   ├── components                             // 组件
-│   │   ├── common                             // 公共组件
-│   │   │   ├── navbar                         // 顶部的插槽
-│   │   │   ├── scroll                         // better-scroll滚动
+│   ├── assets                                 //字体图标文件夹 和公共的css样式 和svg图片  
+|   |  
+│   ├── components                             // 组件  
+│   │   ├── common                             // 公共组件  
+│   │   │   ├── navbar                         // 顶部的插槽  
+│   │   │   ├── scroll                         // better-scroll滚动  
 │   │   │   ├── swiper                         // 轮播
 │   │   │   └── tabbar                         // 底部的插槽
 │   │   ├── content                            // 当前项目某些组件
 │   │   │   ├── sroll-PageSlide.vue
 |   |   |   └── mainTabbar-MainTabBar.vue              
-│   ├── network                             // aixos获取数据
+│   ├── network                                // aixos获取数据
 │   │   ├── request.js                         // 创建axios的实例 axios的拦截器
-│   │   └── home.js                              // 请求本地json数据
-│   ├── router ── index.js                      // vue-router 路由配置
-│   ├── utils                                   //封装js
-|   |     ├──jlfd.js                            //节流 防抖的封装
-|   |     └──checkTools.js                          //正则判断的封装
-│   ├── static                                      //存放项目images等
+│   │   └── home.js                            // 请求本地json数据
+│   ├── router ── index.js                     // vue-router 路由配置
+│   ├── utils                                  //封装js
+|   |     ├──jlfd.js                           //节流 防抖的封装
+|   |     └──checkTools.js                     //正则判断的封装
+│   ├── static                                 //存放项目images等
 |   |
-│   ├── views                                 //
-│   │   ├── home                                 //首页文件夹
-│   │   │   ├── balance.vue                     // 余额页
-│   │   │   └── children
-│   │   │       └── detail.vue                  // 余额说明
-│   │   ├── menu                                //菜单页文件夹
+│   ├── views                                  
+│   │   ├── home                               //首页文件夹
+│   │   │                     
+│   │   ├── menu                               //菜单页文件夹
 │   │   │  
-│   │   ├── money                               //登录文件夹
+│   │   ├── money                              //登录文件夹
 │   │   │ 
-│   │   ├── more                                 //更多 点击跳转
+│   │   ├── more                               //更多 点击跳转
 │   │   |              
-│   │   ├── store                                   //vue-amap 地图的地位                     
+│   │   ├── store                              //vue-amap 地图的地位                     
 │   │   │                    
-│   ├── vuex── index.js                                 //vuex数据的存取
+│   ├── vuex── index.js                        //vuex数据的存取
 │   ├──gitignore
 │   ├──babel.config.js
 │   ├──package-lock.json
-│   ├──package.json                                 //当前项目需要的依赖
-│   ├── App.vue                                 // 页面入口文件
-│   ├── main.js                                 // 程序入口文件，加载各种公共组件
-├── vue.config.js                             // 图标
+│   ├──package.json                            //当前项目需要的依赖
+│   ├── App.vue                                // 页面入口文件
+│   ├── main.js                                // 程序入口文件，加载各种公共组件
+├── vue.config.js                              //可选的配置文件
 
