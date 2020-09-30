@@ -74,7 +74,7 @@ module.exports = {
 .  
 ├── src  
 │   ├── assets                                 //字体图标文件夹 和公共的css样式 和svg图片  
-|    |  
+│   │   
 │   ├── components                             // 组件  
 │   │   ├── common                             // 公共组件  
 │   │   │   ├── navbar                         // 顶部的插槽   
