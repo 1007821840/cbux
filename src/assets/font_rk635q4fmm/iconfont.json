@@ -1,0 +1,114 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "105326",
+      "name": "礼物",
+      "font_class": "liwu",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "1161616",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "3195786",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "3465605",
+      "name": "勾",
+      "font_class": "gou6",
+      "unicode": "e5e1",
+      "unicode_decimal": 58849
+    },
+    {
+      "icon_id": "3855177",
+      "name": "下",
+      "font_class": "xia",
+      "unicode": "e511",
+      "unicode_decimal": 58641
+    },
+    {
+      "icon_id": "5729220",
+      "name": "门店",
+      "font_class": "mendian",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "6909800",
+      "name": "搜索-2",
+      "font_class": "iconfontsousuo1",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "8146272",
+      "name": "下  拉 (1)",
+      "font_class": "xiala",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "10818323",
+      "name": "叉",
+      "font_class": "cha",
+      "unicode": "e72d",
+      "unicode_decimal": 59181
+    },
+    {
+      "icon_id": "11289786",
+      "name": "右",
+      "font_class": "right-circle",
+      "unicode": "e505",
+      "unicode_decimal": 58629
+    },
+    {
+      "icon_id": "12041366",
+      "name": "眼睛",
+      "font_class": "yanjing1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "12129691",
+      "name": "我的账户",
+      "font_class": "wodezhanghu",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    },
+    {
+      "icon_id": "14130658",
+      "name": "五角星",
+      "font_class": "xingzhuang60kaobei2",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "14301812",
+      "name": "左",
+      "font_class": "zuo",
+      "unicode": "e704",
+      "unicode_decimal": 59140
+    },
+    {
+      "icon_id": "16657009",
+      "name": "奶茶",
+      "font_class": "naicha",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    }
+  ]
+}
