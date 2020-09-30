@@ -1,4 +1,4 @@
-# cbuxE
+# cbux
 # 1 简介
 我这个项目市基于vue.js + Node.js U
 # 2 技术栈
@@ -124,4 +124,9 @@ module.exports = {
 │   ├── main.js                                // 程序入口文件，加载各种公共组件  
 │   │   │                       
 ├── vue.config.js                              //可选的配置文件  
-
+# 总结
+总结在项目中遇到的问题
+1，v-for遍历的图片不显示  
+加入require
+` <img :src="require('@/static/images/products/'+item.ProductImage)">`  
+2,
